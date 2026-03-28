@@ -7,3 +7,12 @@
 [submodule "platform/api-gateway"]
 	path = platform/api-gateway
 	url = https://github.com/OshadhiVimarsha/Library-Api-Gateway.git
+[submodule "service/user-service"]
+	path = service/user-service
+	url = https://github.com/OshadhiVimarsha/user-service.git
+[submodule "service/book-service"]
+	path = service/book-service
+	url = https://github.com/OshadhiVimarsha/book-service.git
+[submodule "service/lending-service"]
+	path = service/lending-service
+	url = https://github.com/OshadhiVimarsha/lending-service.git
