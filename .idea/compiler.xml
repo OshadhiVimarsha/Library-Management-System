@@ -20,8 +20,8 @@
           <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.6.3/mapstruct-processor-1.6.3.jar" />
         </processorPath>
         <module name="book-service" />
-        <module name="user-service" />
         <module name="lending-service" />
+        <module name="user-service" />
       </profile>
     </annotationProcessing>
   </component>
