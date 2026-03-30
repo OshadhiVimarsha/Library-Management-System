@@ -16,3 +16,6 @@
 [submodule "service/lending-service"]
 	path = service/lending-service
 	url = https://github.com/OshadhiVimarsha/lending-service.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/OshadhiVimarsha/Library-Webapp.git
