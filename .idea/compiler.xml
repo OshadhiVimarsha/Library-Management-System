@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
+        <module name="config-server" />
         <module name="service-registry" />
       </profile>
       <profile name="Annotation profile for Library-Management-System" enabled="true">
@@ -23,9 +24,6 @@
         <module name="user-service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="config-server" target="25" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
